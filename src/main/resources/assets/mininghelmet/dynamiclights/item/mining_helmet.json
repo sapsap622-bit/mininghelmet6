@@ -1,0 +1,9 @@
+{
+  "match": {
+    "items": [
+      "mininghelmet:mining_helmet"
+    ]
+  },
+  "luminance": 15,
+  "water_sensitive": true
+}
